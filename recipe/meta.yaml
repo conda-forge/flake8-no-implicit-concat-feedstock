@@ -30,7 +30,7 @@ test:
     - flake8_no_implicit_concat
   commands:
     - pip check
-    - flake8 --version # | grep no_implicit_concat
+    - flake8 --version | grep no-implicit-concat
   requires:
     - flake8
     - pip
