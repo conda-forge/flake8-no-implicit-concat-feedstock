@@ -1,11 +1,11 @@
-About flake8-no-implicit-concat
-===============================
+About flake8-no-implicit-concat-feedstock
+=========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-no-implicit-concat-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/10sr/flake8-no-implicit-concat
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-no-implicit-concat-feedstock/blob/main/LICENSE.txt)
 
 Summary: Flake8 plugin that forbids implicit str/bytes literal concatenations
 
