@@ -19,11 +19,15 @@ requirements:
   host:
     - pip
     - python >=3.6
+    - setuptools >=45
+    - wheel
+    - setuptools_scm >=6.0
+    # From setuptools_scm[toml]
+    - tomli
   run:
+    - python >=3.6
     - flake8
     - more-itertools
-    - python >=3.6
-    - typing
 
 test:
   imports:
